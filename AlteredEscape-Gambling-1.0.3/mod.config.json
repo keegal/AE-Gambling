@@ -1,0 +1,28 @@
+{
+	"name": "Gambling",
+	"author": "AlteredEscape",
+	"description": "Adds Mystery lootbox to a trader",
+	"license": "MIT",
+	"version": "1.0.3",
+	"src":{ 
+		"src/tamper.js": "TamperModLoad",
+		"src/modloader.js": "CacheModLoad"
+
+	},
+    "folders": [
+        "files/assort/nugent",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+		"mystery_box"
+    ],
+	"res": {
+		"bundles": {
+			"mystery_box": {
+				"manifest" : "res/bundles/mystery_box/manifest.json"
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+Version 1.0.1
+added code to increase number of ammo rounds, boxes and money received
+
+Version 1.0.2
+Extended the code to check for useless items qith zero price (stash, pockets, safe etc)
+
+Version 1.0.3
+Amended code for the useless check to filter weapons with zero price

@@ -1,0 +1,13 @@
+{
+	"manifest": [
+		{
+			"key": "assets/items/mystery_box.bundle",
+			"dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		}
+	]
+
+}

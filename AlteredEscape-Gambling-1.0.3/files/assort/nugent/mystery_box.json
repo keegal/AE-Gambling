@@ -1,0 +1,10 @@
+{
+	"_id": "mystery_box",
+	"_tpl": "mystery_box",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999
+	}
+}
